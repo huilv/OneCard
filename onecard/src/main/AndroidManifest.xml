@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.datapay.onecard">
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <application>
+        <activity
+            android:theme="@style/OneCardNoActionBar"
+            android:name=".FirstActivity"
+            android:exported="false" />
+
+        <activity
+            android:theme="@style/OneCardNoActionBar"
+            android:name=".OneCardInputActivity"
+            android:exported="false" />
+        <activity
+            android:theme="@style/OneCardNoActionBar"
+            android:name=".OneCardAuthorizationActivity"
+            android:exported="false" />
+        <activity
+            android:theme="@style/OneCardNoActionBar"
+            android:name=".OneCardIdCardScanActivity"
+            android:exported="false" />
+
+        <activity
+            android:theme="@style/OneCardNoActionBar"
+            android:name=".OneCardNoticeActivity"
+            android:exported="false" />
+
+        <activity
+            android:theme="@style/OneCardNoActionBar"
+            android:name=".OneCardSettingActivity"
+            android:exported="false" />
+    </application>
+
+</manifest>
