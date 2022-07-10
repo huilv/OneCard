@@ -7,6 +7,19 @@
         <entry key="app/src/main/res/layout/activity_camera.xml" value="0.12182971014492754" />
         <entry key="app/src/main/res/layout/activity_scan.xml" value="0.14628623188405798" />
         <entry key="onecard/src/main/res/layout/activity_first.xml" value="0.12635869565217392" />
+        <entry key="onecard/src/main/res/layout/activity_one_card.xml" value="0.1272644927536232" />
+        <entry key="onecard/src/main/res/layout/activity_one_card_acthorization.xml" value="0.25" />
+        <entry key="onecard/src/main/res/layout/activity_one_card_base.xml" value="0.11458333333333333" />
+        <entry key="onecard/src/main/res/layout/activity_one_card_input.xml" value="0.11458333333333333" />
+        <entry key="onecard/src/main/res/layout/activity_one_card_notice.xml" value="0.11458333333333333" />
+        <entry key="onecard/src/main/res/layout/activity_one_card_scan.xml" value="0.11458333333333333" />
+        <entry key="onecard/src/main/res/layout/activity_one_card_setting.xml" value="0.11458333333333333" />
+        <entry key="onecard/src/main/res/layout/activity_one_card_web.xml" value="0.10778985507246377" />
+        <entry key="onecard/src/main/res/layout/fragment_one_card_authorization.xml" value="0.1" />
+        <entry key="onecard/src/main/res/layout/fragment_one_card_camera.xml" value="0.10258358662613981" />
+        <entry key="onecard/src/main/res/layout/fragment_one_card_input.xml" value="0.1272644927536232" />
+        <entry key="onecard/src/main/res/layout/fragment_one_card_notice.xml" value="0.1272644927536232" />
+        <entry key="onecard/src/main/res/layout/fragment_one_card_setting.xml" value="0.1272644927536232" />
       </map>
     </option>
   </component>
@@ -15,5 +28,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.10258358662613981" />
+      </ProjectState>
+    </option>
   </component>
 </project>
